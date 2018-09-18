@@ -1,0 +1,78 @@
+# English (United Kingdom) translations for PROJECT.
+# Copyright (C) 2018 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-09-06 11:34-0700\n"
+"PO-Revision-Date: 2018-09-06 11:36-0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en_GB\n"
+"Language-Team: en_GB <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: alexa/data.py:6
+msgid "Minecraft Helper"
+msgstr "British Minecraft Helper"
+
+#: alexa/data.py:7
+msgid ""
+"Welcome to {}. You can ask a question like, what's the recipe for a {}? "
+"... Now, what can I help you with?"
+msgstr ""
+
+#: alexa/data.py:8
+msgid "For instructions on what you can say, please say help me."
+msgstr ""
+
+#: alexa/data.py:9
+msgid "{}  - Recipe for {}."
+msgstr ""
+
+#: alexa/data.py:10
+msgid ""
+"You can ask questions such as, what's the recipe for a {}, or, you can "
+"say exit...Now, what can I help you with?"
+msgstr ""
+
+#: alexa/data.py:11
+msgid ""
+"You can say things like, what's the recipe for a {}, or you can say "
+"exit...Now, what can I help you with?"
+msgstr ""
+
+#: alexa/data.py:12
+msgid "The {} skill can't help you with that."
+msgstr ""
+
+#: alexa/data.py:13
+msgid "Goodbye!"
+msgstr ""
+
+#: alexa/data.py:14
+msgid "Try saying repeat."
+msgstr ""
+
+#: alexa/data.py:15
+msgid "I'm sorry, I currently do not know "
+msgstr ""
+
+#: alexa/data.py:16
+msgid "the recipe for {}. "
+msgstr ""
+
+#: alexa/data.py:17
+msgid "that recipe. "
+msgstr ""
+
+#: alexa/data.py:18
+msgid "What else can I help with?"
+msgstr ""
+

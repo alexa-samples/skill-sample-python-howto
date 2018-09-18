@@ -1,0 +1,84 @@
+# German (Germany) translations for PROJECT.
+# Copyright (C) 2018 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-09-06 11:34-0700\n"
+"PO-Revision-Date: 2018-09-06 11:37-0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: de_DE\n"
+"Language-Team: de_DE <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: alexa/data.py:6
+msgid "Minecraft Helper"
+msgstr "Assistent für Minecraft in Deutsch"
+
+#: alexa/data.py:7
+msgid ""
+"Welcome to {}. You can ask a question like, what's the recipe for a {}? "
+"... Now, what can I help you with?"
+msgstr ""
+"Willkommen bei {}. Du kannst beispielsweise die Frage stellen: Welche "
+"Rezepte gibt es für eine {}? ... Nun, womit kann ich dir helfen?"
+
+#: alexa/data.py:8
+msgid "For instructions on what you can say, please say help me."
+msgstr "Wenn du wissen möchtest, was du sagen kannst, sag einfach „Hilf mir“."
+
+#: alexa/data.py:9
+msgid "{}  - Recipe for {}."
+msgstr "{} - Rezept für {}."
+
+#: alexa/data.py:10
+msgid ""
+"You can ask questions such as, what's the recipe for a {}, or, you can "
+"say exit...Now, what can I help you with?"
+msgstr ""
+"Du kannst beispielsweise Fragen stellen wie „Wie geht das Rezept für eine "
+"{}“ oder du kannst „Beenden“ sagen ... Wie kann ich dir helfen?"
+
+#: alexa/data.py:11
+msgid ""
+"You can say things like, what's the recipe for a {}, or you can say "
+"exit...Now, what can I help you with?"
+msgstr ""
+"Du kannst beispielsweise Sachen sagen wie „Wie geht das Rezept für eine "
+"{}“ oder du kannst „Beenden“ sagen ... Wie kann ich dir helfen?"
+
+#: alexa/data.py:12
+msgid "The {} skill can't help you with that."
+msgstr ""
+
+#: alexa/data.py:13
+msgid "Goodbye!"
+msgstr "Auf Wiedersehen!"
+
+#: alexa/data.py:14
+msgid "Try saying repeat."
+msgstr "Sage einfach „Wiederholen“."
+
+#: alexa/data.py:15
+msgid "I'm sorry, I currently do not know "
+msgstr "Tut mir leid, ich kenne derzeit "
+
+#: alexa/data.py:16
+msgid "the recipe for {}. "
+msgstr "das Rezept für {} nicht. "
+
+#: alexa/data.py:17
+msgid "that recipe. "
+msgstr "dieses Rezept nicht. "
+
+#: alexa/data.py:18
+msgid "What else can I help with?"
+msgstr "Womit kann ich dir sonst helfen?"
+
