@@ -17,7 +17,7 @@ At this point, you should have a working copy of our How To skill.  In order to 
 
 2.  **New sentences to respond to your users.** There are several sentences and responses that you will want to customize for your skill.
 
-    1.  **Go back to your copy of [lambda_function.py](../lambda/lambda_function.py).**
+    1.  **Go back to your copy of [data.py](../lambda/py/alexa/data.py).**
 
     2.  **Look for lines like this: "WELCOME_MESSAGE = _("Welcome..""** These are strings that hold phrases for Alexa to respond with.  Customize them to make it as varied and conversational as time allows.
 
